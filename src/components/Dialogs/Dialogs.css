@@ -1,0 +1,67 @@
+.dialogsContainer {
+    position: relative;
+    display: grid;
+    margin: 1rem;
+    grid-template-rows: 57vh 30px;
+    grid-template-columns: 2fr 3fr;
+    grid-template-areas:
+            'd m'
+            'd f';
+}
+.dialogs {
+    position: relative;
+    padding: 30px 15px;
+}
+.dialogs a {
+    font-weight: 600;
+    color: darkgray;
+    text-decoration: none;
+}
+.dialogs a.active {
+    color: #30343A;
+}
+.dialog {
+    position: relative;
+    top: -20px;
+    padding-bottom: 10px;
+}
+.online {
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    top: 30px;
+    left: 20px;
+    border: solid 1px white;
+    border-radius: 100%;
+    background-color: lightgreen;
+    z-index: 1;
+}
+.messages {
+    grid-area: m;
+    margin-bottom: 10px;
+    border: solid 2px lightgrey;
+    border-radius: 30px;
+    background-color: #EAFEE0;
+}
+.message {
+    width: 300px;
+    margin:  10px 10px 10px auto;
+    padding: 5px 15px;
+    border-radius: 20px 20px 0 20px;
+    color: #30343A;
+    background-color: white;
+    box-shadow: 3px 3px 5px #D5DFD6;
+    overflow: auto;
+}
+.messageForm {
+    grid-area: f;
+}
+.photoUserSmall {
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}

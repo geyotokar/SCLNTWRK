@@ -1,0 +1,56 @@
+* {
+    border: none;
+    font-family: inherit;
+}
+.field {
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 3px 10px;
+    border-radius: 50px;
+    background-color: #E6F0F1;
+}
+button {
+    height: 90%;
+    border-radius: 50px;
+    font-weight: 600;
+    padding: 3px 15px;
+}
+.paginator {
+    display: grid;
+    margin-bottom: 10px;
+    text-align: center;
+    grid-auto-columns: 1fr 1fr 4fr 1fr 1fr;
+    grid-template-areas: '. prev page next .';
+}
+.page {
+    grid-area: page;
+    font-size: 0.7rem;
+}
+.selectedPage {
+    font-weight: bold;
+    color: #30343A;
+}
+.noSelectedPage {
+    color: gray;
+}
+.prevButton {
+    grid-area: prev;
+}
+.nextButton {
+    grid-area: next;
+}
+.userSearch {
+    display: grid;
+    padding-top: 5px;
+    grid-auto-columns: 1fr 2fr 3fr 1fr 1fr;
+    grid-template-areas: '. friend term button .';
+}
+.term {
+    grid-area: term;
+}
+.friend {
+    grid-area: friend;
+}
+.userButton {
+    grid-area: button;
+}

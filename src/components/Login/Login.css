@@ -1,0 +1,9 @@
+.loginForm {
+    margin: auto;
+    padding-top: 10%;
+    text-align: center;
+}
+.loginField {
+    display: block;
+    margin: 0.5rem auto;
+}

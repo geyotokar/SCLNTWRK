@@ -1,0 +1,27 @@
+.nav {
+    grid-area: n;
+    width: 900px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+"ne di . us pr";
+}
+.h_nav a {
+    color: darkgray;
+    text-decoration: none;
+}
+.h_nav a.active {
+    color: white;
+}
+.h_nav {
+    display: inline-block;
+    margin: auto;
+    font-family: "Arial Hebrew Scholar", Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+.pr {grid-area: pr;}
+.ne {grid-area: ne;}
+.di {grid-area: di;}
+.us {grid-area: us;}

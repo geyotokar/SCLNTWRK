@@ -1,0 +1,42 @@
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.yin-yang {
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -50px;
+    width: 100px;
+    height: 50px;
+    border: solid #292D32;
+    border-width: 2px 2px 50px 2px;
+    border-radius: 100%;
+    background: whitesmoke;
+    z-index: 1;
+    animation: spin 8s linear infinite;
+}
+.yin-yang:before {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 12px;
+    height: 12px;
+    content: '';
+    background: whitesmoke;
+    border: 19px solid #292D32;
+    border-radius: 100%;
+}
+.yin-yang:after {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 12px;
+    height: 12px;
+    content: '';
+    background: #292D32;
+    border: 19px solid whitesmoke;
+    border-radius: 100%;
+}

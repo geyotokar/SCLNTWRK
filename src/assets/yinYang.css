@@ -1,0 +1,35 @@
+.yinYang {
+    position: absolute;
+    display: block;
+    left: 50%;
+    margin: -34px 0 0 -76px;
+    width: 150px;
+    height: 75px;
+    border: solid #292D32;
+    border-width: 3px 3px 75px 3px;
+    border-radius: 100%;
+    background: whitesmoke;
+    z-index: revert;
+}
+.yinYang:before {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 18px;
+    height: 18px;
+    content: '';
+    background: whitesmoke;
+    border: 29px solid #292D32;
+    border-radius: 100%;
+}
+.yinYang:after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 18px;
+    height: 18px;
+    content: '';
+    background: #292D32;
+    border: 29px solid whitesmoke;
+    border-radius: 100%;
+}

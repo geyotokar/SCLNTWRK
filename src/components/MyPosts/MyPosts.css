@@ -1,0 +1,35 @@
+.postsContainer {
+    padding: 20px;
+}
+.post {
+    display: grid;
+    width: 600px;
+    margin: 0.6em 0;
+    padding: 0.3em;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #E6F0F1;
+    grid-template-rows: 1rem 1fr 1rem;
+    grid-template-columns: 50px 1fr;
+    grid-template-areas:
+            'a n'
+            'a m'
+            'a l';
+}
+.postAvatar {
+    grid-area: a;
+}
+.postName {
+    grid-area: n;
+    font-weight: 600;
+}
+.postMessage {
+    grid-area: m;
+    color: #30343A;
+}
+.postLike {
+    grid-area: l;
+    text-align: right;
+    color: darkgrey;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
