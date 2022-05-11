@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/SCLNTWRK/static/css/main.26918dc7.chunk.css",
+    "main.js": "/SCLNTWRK/static/js/main.daed8ec7.chunk.js",
+    "main.js.map": "/SCLNTWRK/static/js/main.daed8ec7.chunk.js.map",
+    "runtime-main.js": "/SCLNTWRK/static/js/runtime-main.fc7333a2.js",
+    "runtime-main.js.map": "/SCLNTWRK/static/js/runtime-main.fc7333a2.js.map",
+    "static/js/2.bc8b5d51.chunk.js": "/SCLNTWRK/static/js/2.bc8b5d51.chunk.js",
+    "static/js/2.bc8b5d51.chunk.js.map": "/SCLNTWRK/static/js/2.bc8b5d51.chunk.js.map",
+    "static/css/3.39715d88.chunk.css": "/SCLNTWRK/static/css/3.39715d88.chunk.css",
+    "static/js/3.f4bab3eb.chunk.js": "/SCLNTWRK/static/js/3.f4bab3eb.chunk.js",
+    "static/js/3.f4bab3eb.chunk.js.map": "/SCLNTWRK/static/js/3.f4bab3eb.chunk.js.map",
+    "static/css/4.d337139e.chunk.css": "/SCLNTWRK/static/css/4.d337139e.chunk.css",
+    "static/js/4.283e53c4.chunk.js": "/SCLNTWRK/static/js/4.283e53c4.chunk.js",
+    "static/js/4.283e53c4.chunk.js.map": "/SCLNTWRK/static/js/4.283e53c4.chunk.js.map",
+    "static/css/5.78ae95a6.chunk.css": "/SCLNTWRK/static/css/5.78ae95a6.chunk.css",
+    "static/js/5.af716a10.chunk.js": "/SCLNTWRK/static/js/5.af716a10.chunk.js",
+    "static/js/5.af716a10.chunk.js.map": "/SCLNTWRK/static/js/5.af716a10.chunk.js.map",
+    "static/js/6.53337419.chunk.js": "/SCLNTWRK/static/js/6.53337419.chunk.js",
+    "static/js/6.53337419.chunk.js.map": "/SCLNTWRK/static/js/6.53337419.chunk.js.map",
+    "index.html": "/SCLNTWRK/index.html",
+    "static/css/3.39715d88.chunk.css.map": "/SCLNTWRK/static/css/3.39715d88.chunk.css.map",
+    "static/css/4.d337139e.chunk.css.map": "/SCLNTWRK/static/css/4.d337139e.chunk.css.map",
+    "static/css/5.78ae95a6.chunk.css.map": "/SCLNTWRK/static/css/5.78ae95a6.chunk.css.map",
+    "static/css/main.26918dc7.chunk.css.map": "/SCLNTWRK/static/css/main.26918dc7.chunk.css.map",
+    "static/js/2.bc8b5d51.chunk.js.LICENSE.txt": "/SCLNTWRK/static/js/2.bc8b5d51.chunk.js.LICENSE.txt",
+    "static/media/pencil.cdb686a9.jpeg": "/SCLNTWRK/static/media/pencil.cdb686a9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc7333a2.js",
+    "static/js/2.bc8b5d51.chunk.js",
+    "static/css/main.26918dc7.chunk.css",
+    "static/js/main.daed8ec7.chunk.js"
+  ]
+}
