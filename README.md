@@ -9,6 +9,10 @@ Open http://localhost:3000 to view it in the browser.
 
 Use the following to log in: Email: miss_patrisha@mail.ru Password: qwerty
 
+## This is Heroku deployed
+
+View the deployed project: [https://geyo-sclntwrk.herokuapp.com/](https://geyo-sclntwrk.herokuapp.com/)
+
 ## Features:
 
 browser-routing redux-thunk redux-form validation login
