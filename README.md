@@ -7,7 +7,7 @@ Open http://localhost:3000 to view it in the browser.
 
 ### Try it here!
 
-Use the following to log in: Email: [miss_patrisha@mail.ru] Password: [qwerty]
+Use the following to log in: Email: miss_patrisha@mail.ru Password: qwerty
 
 ## Features:
 
