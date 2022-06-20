@@ -1,6 +1,8 @@
 # Welcome to SCLNTWRK
 There is social network where you can find ReactJS developers looking for employment.
-This app developing with using Typescript, React, Redux, REST API and ES6.
+This app developing with using Typescript, React, Redux, REST API, ES6 and Formik.
+
+![Header](https://github.com/geyotokar/SCLNTWRK/blob/main/src/assets/images/SCLNTWRK.png)
 
 ## Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
