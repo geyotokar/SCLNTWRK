@@ -6,7 +6,7 @@ This app developing with using Typescript, React, Redux, REST API, ES6 and Formi
 
 # This is Heroku deployed
 
->View the deployed project: [https://geyo-sclntwrk.herokuapp.com/](https://geyo-sclntwrk.herokuapp.com/)
+>View the deployed project: [https://geyo-sclntwrk.herokuapp.com/](https://geyo-sclntwrk.herokuapp.com/) <br>
 >Use the following to log in: Email: miss_patrisha@mail.ru Password: qwerty
 >
 >(in case of unsuccessful loaded - check the protocol - it's must be https)
@@ -20,8 +20,8 @@ This app developing with using Typescript, React, Redux, REST API, ES6 and Formi
 
 ## Features:
 ![thunk](https://img.shields.io/badge/-thunk-FFCE54?style=flat-square)
-![browserrouting](https://img.shields.io/badge-browserRouting-967ADC?style=flat-square)
-![restapi](https://img.shields.io/badge-restAPI-FC6E51?style=flat-square)
+![browserrouting](https://img.shields.io/badge/-browser\-routing-967ADC?style=flat-square)
+![restapi](https://img.shields.io/badge/-rest\-api-FC6E51?style=flat-square)
 ![login](https://img.shields.io/badge/-login-A0D468?style=flat-square)
 ![captcha](https://img.shields.io/badge/-captcha-AC92EC?style=flat-square)
 ![cookie](https://img.shields.io/badge/-cookie-FEE715?style=flat-square)
