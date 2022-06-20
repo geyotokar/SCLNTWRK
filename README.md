@@ -4,9 +4,6 @@ This app developing with using Typescript, React, Redux, REST API, ES6 and Formi
 
 ![Header](https://github.com/geyotokar/SCLNTWRK/blob/main/src/assets/images/SCLNTWRK.png)
 
-### Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
-
 # This is Heroku deployed
 
 View the deployed project: [https://geyo-sclntwrk.herokuapp.com/](https://geyo-sclntwrk.herokuapp.com/)
@@ -23,8 +20,8 @@ Use the following to log in: Email: miss_patrisha@mail.ru Password: qwerty
 
 ## Features:
 ![thunk](https://img.shields.io/badge/-thunk-FFCE54?style=flat-square)
-![browser-routing](https://img.shields.io/badge/-browser\-routing-967ADC?style=flat-square)
-![rest-api](https://img.shields.io/badge/-rest\-api-FC6E51?style=flat-square)
+![browser\-routing](https://img.shields.io/badge/-browser\-routing-967ADC?style=flat-square)
+![rest\-api](https://img.shields.io/badge/-rest\-api-FC6E51?style=flat-square)
 ![login](https://img.shields.io/badge/-login-A0D468?style=flat-square)
 ![captcha](https://img.shields.io/badge/-captcha-AC92EC?style=flat-square)
 ![cookie](https://img.shields.io/badge/-cookie-FEE715?style=flat-square)
