@@ -20,8 +20,8 @@ Use the following to log in: Email: miss_patrisha@mail.ru Password: qwerty
 
 ## Features:
 ![thunk](https://img.shields.io/badge/-thunk-FFCE54?style=flat-square)
-![browser--routing](https://img.shields.io/badge--browser routing-967ADC?style=flat-square)
-![rest--api](https://img.shields.io/badge--rest api-FC6E51?style=flat-square)
+![browserrouting](https://img.shields.io/badge-browser--routing-967ADC?style=flat-square)
+![restapi](https://img.shields.io/badge-rest--api-FC6E51?style=flat-square)
 ![login](https://img.shields.io/badge/-login-A0D468?style=flat-square)
 ![captcha](https://img.shields.io/badge/-captcha-AC92EC?style=flat-square)
 ![cookie](https://img.shields.io/badge/-cookie-FEE715?style=flat-square)
